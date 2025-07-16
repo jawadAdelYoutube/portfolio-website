@@ -72,6 +72,13 @@ const items = [
         >
           freeCodeCamp – Responsive Web Design
         </a>
+        <br />
+        <a
+          href="https://www.freecodecamp.org/certification/Jawad_Adel/javascript-algorithms-and-data-structures-v8"
+          target="_blank"
+        >
+          freeCodeCamp – JavaScript Algorithms and Data Structures
+        </a>
       </div>
     ),
     header: <Skeleton />,
